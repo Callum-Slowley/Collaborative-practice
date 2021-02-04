@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Collab",
+			"Path": "E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Source\\Collab.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CollabEditor",
+			"Path": "E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Source\\CollabEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
