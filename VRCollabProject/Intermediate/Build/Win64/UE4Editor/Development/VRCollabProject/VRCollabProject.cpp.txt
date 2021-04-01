@@ -1,0 +1,2 @@
+E:\Projects\Unreal\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
+E:\Projects\Unreal\VRCollabProject\Source\VRCollabProject\VRCollabProject.h

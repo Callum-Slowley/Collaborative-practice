@@ -1,2 +1,0 @@
-E:\Uni\year2\Sem2\Colab\Collab\Intermediate\Build\Win64\UE4Editor\Development\Collab\Definitions.Collab.h
-E:\Uni\year2\Sem2\Colab\Collab\Source\Collab\Collab.h

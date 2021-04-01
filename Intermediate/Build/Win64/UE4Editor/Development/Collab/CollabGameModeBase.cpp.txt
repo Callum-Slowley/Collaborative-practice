@@ -1,7 +1,0 @@
-E:\Uni\year2\Sem2\Colab\Collab\Intermediate\Build\Win64\UE4Editor\Development\Collab\Definitions.Collab.h
-E:\Uni\year2\Sem2\Colab\Collab\Source\Collab\CollabGameModeBase.h
-D:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Uni\year2\Sem2\Colab\Collab\Intermediate\Build\Win64\UE4Editor\Inc\Collab\CollabGameModeBase.generated.h
