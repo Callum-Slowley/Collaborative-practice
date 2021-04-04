@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Projects\\Github\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject\\VRCollabProject.Build.cs",
-		"E:\\Projects\\Github\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject.Target.cs",
-		"E:\\Projects\\Github\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProjectEditor.Target.cs"
+		"E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject\\VRCollabProject.Build.cs",
+		"E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject.Target.cs",
+		"E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }

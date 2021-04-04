@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "VRCollabProject",
-			"Path": "E:\\Projects\\Github\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject.Target.cs",
+			"Path": "E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "VRCollabProjectEditor",
-			"Path": "E:\\Projects\\Github\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProjectEditor.Target.cs",
+			"Path": "E:\\Uni\\year2\\Sem2\\Colab\\Collab\\Collaborative-practice\\VRCollabProject\\Source\\VRCollabProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
