@@ -48,6 +48,11 @@ void EmptyLinkFunctionForGeneratedCodePickupActor() {}
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_snapRotation;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_canDropOnRelease_MetaData[];
+#endif
+		static void NewProp_canDropOnRelease_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_canDropOnRelease;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_snapOnGrab_MetaData[];
 #endif
 		static void NewProp_snapOnGrab_SetBit(void* Obj);
@@ -90,6 +95,17 @@ void EmptyLinkFunctionForGeneratedCodePickupActor() {}
 #endif
 	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_APickupActor_Statics::NewProp_snapRotation = { "snapRotation", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APickupActor, snapRotation), Z_Construct_UScriptStruct_FQuat, METADATA_PARAMS(Z_Construct_UClass_APickupActor_Statics::NewProp_snapRotation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APickupActor_Statics::NewProp_snapRotation_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease_MetaData[] = {
+		{ "Category", "PickupActor" },
+		{ "ModuleRelativePath", "PickupActor.h" },
+	};
+#endif
+	void Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease_SetBit(void* Obj)
+	{
+		((APickupActor*)Obj)->canDropOnRelease = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease = { "canDropOnRelease", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(APickupActor), &Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease_SetBit, METADATA_PARAMS(Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APickupActor_Statics::NewProp_snapOnGrab_MetaData[] = {
 		{ "Category", "PickupActor" },
 		{ "ModuleRelativePath", "PickupActor.h" },
@@ -104,6 +120,7 @@ void EmptyLinkFunctionForGeneratedCodePickupActor() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APickupActor_Statics::NewProp_staticMeshComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APickupActor_Statics::NewProp_snapLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APickupActor_Statics::NewProp_snapRotation,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APickupActor_Statics::NewProp_canDropOnRelease,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APickupActor_Statics::NewProp_snapOnGrab,
 	};
 		const UE4CodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_APickupActor_Statics::InterfaceParams[] = {
@@ -136,7 +153,7 @@ void EmptyLinkFunctionForGeneratedCodePickupActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APickupActor, 470707534);
+	IMPLEMENT_CLASS(APickupActor, 4119361966);
 	template<> VRCOLLABPROJECT_API UClass* StaticClass<APickupActor>()
 	{
 		return APickupActor::StaticClass();

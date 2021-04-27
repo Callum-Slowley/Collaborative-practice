@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeVRCollabProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB5D08EC4,
-				0x74D1741A,
+				0xB83EB087,
+				0xE489AED7,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
