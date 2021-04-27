@@ -879,3 +879,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-13.44.56:900][492]LogSlate: Window 'Door' being destroyed
 [2021.04.27-13.44.56:909][492]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2021.04.27-13.44.56:909][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-13.48.04:444][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CallumTests/Door.Door
+[2021.04.27-13.51.04:220][540]BlueprintLog: New page: Compile Door
+[2021.04.27-13.51.05:129][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.27-13.51.05:142][540]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.Door_C_3.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2021.04.27-13.51.05:179][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CallumTests/Door" FILE="E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset" SILENT=true
+[2021.04.27-13.51.05:205][540]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/Door14CD17234F92790CC89BE797881841D7.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset'
+[2021.04.27-13.51.05:230][540]AssetCheck: New page: Asset Save: Door
+[2021.04.27-13.51.05:230][540]LogContentValidation: Display: Validating Blueprint /Game/CallumTests/Door.Door
+[2021.04.27-13.51.05:884][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CallumTests/Door" FILE="E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset" SILENT=true
+[2021.04.27-13.51.05:906][567]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/Door953E52A14C6F4A41715DB3A85C10920F.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset'
+[2021.04.27-13.51.05:931][567]AssetCheck: New page: Asset Save: Door
+[2021.04.27-13.51.05:931][567]LogContentValidation: Display: Validating Blueprint /Game/CallumTests/Door.Door
+[2021.04.27-13.51.08:396][716]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-13.51.08:423][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-13.51.08:423][716]PIE: New page: PIE session: AITestWorld (27 Apr 2021, 15:51:08)
+[2021.04.27-13.51.08:423][716]LogPlayLevel: Creating play world package: /Game/CallumTests/UEDPIE_0_AITestWorld
+[2021.04.27-13.51.08:434][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010767s)
+[2021.04.27-13.51.08:436][716]LogAIModule: Creating AISystem for world AITestWorld
+[2021.04.27-13.51.08:437][716]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016C70451C00), frame # 32716
+[2021.04.27-13.51.08:437][716]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016CA0CF2AC0), frame # 32716
+[2021.04.27-13.51.08:437][716]LogPlayLevel: PIE: World Init took: (0.003085s)
+[2021.04.27-13.51.08:437][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CallumTests/AITestWorld.AITestWorld to /Game/CallumTests/UEDPIE_0_AITestWorld.AITestWorld (0.014111s)
+[2021.04.27-13.51.08:543][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-13.51.08:546][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-13.51.08:546][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-13.51.08:547][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-13.51.08:547][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-13.51.08:563][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-13.51.08:563][716]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-13.51.08:607][716]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.27-13.51.08:608][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-13.51.08:608][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-13.51.08:608][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-13.51.08:608][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-13.51.08:620][716]LogInit: FAudioDevice initialized.
+[2021.04.27-13.51.08:631][716]LogLoad: Game class is 'bp_MyVRCollabProjectGameModeBase_C'
+[2021.04.27-13.51.08:633][716]LogWorld: Bringing World /Game/CallumTests/UEDPIE_0_AITestWorld.AITestWorld up for play (max tick rate 0) at 2021.04.27-14.51.08
+[2021.04.27-13.51.08:634][716]LogWorld: Bringing up level for play took: 0.002131
+[2021.04.27-13.51.08:634][716]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.27-13.51.08:641][716]PIE: Server logged in
+[2021.04.27-13.51.08:642][716]PIE: Play in editor total start time 0.228 seconds.
+[2021.04.27-13.51.11:908][927]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.27-13.51.20:982][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-13.51.20:982][428]LogWorld: BeginTearingDown for /Game/CallumTests/UEDPIE_0_AITestWorld
+[2021.04.27-13.51.20:983][428]LogWorld: UWorld::CleanupWorld for AITestWorld, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-13.51.20:984][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-13.51.20:995][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-13.51.20:998][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-13.51.21:047][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-13.51.21:049][428]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016CA0CF2AC0), frame # 33428
+[2021.04.27-13.51.21:049][428]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016C70451C00), frame # 33428
+[2021.04.27-13.51.21:053][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.27-13.51.21:090][429]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.27-13.51.28:030][771]BlueprintLog: New page: Compile Door
+[2021.04.27-13.51.28:090][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.27-13.51.28:095][771]PIE: Warning: Constraint in '/Engine/Transient.World_1:PersistentLevel.Door_C_4.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2021.04.27-13.51.28:131][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CallumTests/Door" FILE="E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset" SILENT=true
+[2021.04.27-13.51.28:156][771]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/Door82B508C844E7A6336A67A29AE78758D2.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset'
+[2021.04.27-13.51.28:183][771]AssetCheck: New page: Asset Save: Door
+[2021.04.27-13.51.28:183][771]LogContentValidation: Display: Validating Blueprint /Game/CallumTests/Door.Door
+[2021.04.27-13.51.28:755][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CallumTests/Door" FILE="E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset" SILENT=true
+[2021.04.27-13.51.28:779][793]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/DoorF68F3CFF45EF8401EDDA89B8E2790A25.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/Door.uasset'
+[2021.04.27-13.51.28:800][793]AssetCheck: New page: Asset Save: Door
+[2021.04.27-13.51.28:800][793]LogContentValidation: Display: Validating Blueprint /Game/CallumTests/Door.Door
+[2021.04.27-13.51.31:692][931]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.27-13.51.31:718][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.27-13.51.31:718][931]PIE: New page: PIE session: AITestWorld (27 Apr 2021, 15:51:31)
+[2021.04.27-13.51.31:719][931]LogPlayLevel: Creating play world package: /Game/CallumTests/UEDPIE_0_AITestWorld
+[2021.04.27-13.51.31:732][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013289s)
+[2021.04.27-13.51.31:734][931]LogAIModule: Creating AISystem for world AITestWorld
+[2021.04.27-13.51.31:734][931]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016C6FFE0200), frame # 33931
+[2021.04.27-13.51.31:734][931]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016C6F86B240), frame # 33931
+[2021.04.27-13.51.31:734][931]LogPlayLevel: PIE: World Init took: (0.002159s)
+[2021.04.27-13.51.31:735][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CallumTests/AITestWorld.AITestWorld to /Game/CallumTests/UEDPIE_0_AITestWorld.AITestWorld (0.015821s)
+[2021.04.27-13.51.31:761][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.27-13.51.31:763][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.27-13.51.31:763][931]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.27-13.51.31:763][931]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.27-13.51.31:778][931]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-13.51.31:778][931]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-13.51.31:815][931]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.27-13.51.31:815][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.27-13.51.31:815][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.27-13.51.31:815][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.27-13.51.31:815][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.27-13.51.31:826][931]LogInit: FAudioDevice initialized.
+[2021.04.27-13.51.31:848][931]LogLoad: Game class is 'bp_MyVRCollabProjectGameModeBase_C'
+[2021.04.27-13.51.31:850][931]LogWorld: Bringing World /Game/CallumTests/UEDPIE_0_AITestWorld.AITestWorld up for play (max tick rate 0) at 2021.04.27-14.51.31
+[2021.04.27-13.51.31:850][931]LogWorld: Bringing up level for play took: 0.001936
+[2021.04.27-13.51.31:850][931]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.27-13.51.31:854][931]PIE: Server logged in
+[2021.04.27-13.51.31:856][931]PIE: Play in editor total start time 0.147 seconds.
+[2021.04.27-13.51.34:777][ 87]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.27-13.52.34:297][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.27-13.52.53:415][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-13.52.53:415][875]LogWorld: BeginTearingDown for /Game/CallumTests/UEDPIE_0_AITestWorld
+[2021.04.27-13.52.53:416][875]LogWorld: UWorld::CleanupWorld for AITestWorld, bSessionEnded=true, bCleanupResources=true
+[2021.04.27-13.52.53:416][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-13.52.53:424][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.27-13.52.53:443][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.27-13.52.53:464][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.27-13.52.53:490][875]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016C6F86B240), frame # 38875
+[2021.04.27-13.52.53:490][875]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016C6FFE0200), frame # 38875
+[2021.04.27-13.52.53:492][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.27-13.52.53:531][876]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.27-13.52.54:929][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.27-13.52.55:032][996]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/AITestWorldFBF53EBF4B72592E342267853D91D58D.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/AITestWorld.umap'
+[2021.04.27-13.52.55:166][996]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/AITestWorld_BuiltData7E67E80A4E35D808C31FAFA50C9C5F28.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/AITestWorld_BuiltData.uasset'
+[2021.04.27-13.52.55:219][996]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.27-13.52.55:219][996]LogContentValidation: Display: Validating World /Game/CallumTests/AITestWorld.AITestWorld
+[2021.04.27-13.52.55:219][996]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CallumTests/AITestWorld_BuiltData.AITestWorld_BuiltData
