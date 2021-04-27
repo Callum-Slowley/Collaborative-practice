@@ -21,6 +21,9 @@ public:
 	bool snapOnGrab = false;
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	bool canDropOnRelease = true;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	FQuat snapRotation;
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)

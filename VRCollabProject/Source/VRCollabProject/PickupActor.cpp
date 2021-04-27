@@ -33,5 +33,7 @@ void APickupActor::GrabPressed(USceneComponent* _attachPoint)
 
 void APickupActor::GrabReleased()
 {
-	staticMeshComponent->SetSimulatePhysics(true);
+	if (canDropOnRelease) {
+		staticMeshComponent->SetSimulatePhysics(true);
+	}
 }

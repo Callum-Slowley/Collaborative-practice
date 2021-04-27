@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRCollabProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EE7F69BB-E453-4118-9649-E503694E141E}</UniqueIdentifier>
+      <UniqueIdentifier>{40E43712-926D-4E08-AD9C-A4092C1BD15B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRCollabProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3F0B6CE5-476B-4956-8897-D1446683DC1A}</UniqueIdentifier>
+      <UniqueIdentifier>{B5ADA58C-54C8-474D-8B11-3C3A29242C94}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRCollabProject">
-      <UniqueIdentifier>{E4DC331C-C415-4B67-ADD1-CB3178252486}</UniqueIdentifier>
+      <UniqueIdentifier>{49F4E005-CABF-4A4F-B137-D32E2FD02F17}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\VRCollabProject\PickupActor.cpp">
       <Filter>Source\VRCollabProject</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\VRCollabProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\VRCollabProject\PickupInterface.h">
+      <Filter>Source\VRCollabProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRCollabProject\SceneChangeTriggerReciever.cpp">
+      <Filter>Source\VRCollabProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRCollabProject\SceneChangeTriggerReciever.h">
       <Filter>Source\VRCollabProject</Filter>
     </ClInclude>
     <None Include="..\..\Source\VRCollabProject\VRCollabProject.Build.cs">

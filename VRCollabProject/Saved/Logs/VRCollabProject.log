@@ -1,9 +1,17 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 04/27/21 14:37:01
 LogInit: Display: Running engine for game: VRCollabProject
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 10.980414
+=======
+﻿Log file open, 04/27/21 15:24:08
+LogInit: Display: Running engine for game: VRCollabProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187364
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 04/27/21 15:24:08
 LogInit: Display: Running engine for game: VRCollabProject
@@ -258,6 +266,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.04.27-13.37.06:009][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.04.27-13.37.06:010][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1067,6 +1076,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-13.52.55:219][996]LogContentValidation: Display: Validating World /Game/CallumTests/AITestWorld.AITestWorld
 [2021.04.27-13.52.55:219][996]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CallumTests/AITestWorld_BuiltData.AITestWorld_BuiltData
 =======
+=======
+>>>>>>> Stashed changes
 [2021.04.27-14.24.52:661][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.04.27-14.24.52:661][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.04.27-14.24.52:661][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Projects/Github/Collaborative-practice/VRCollabProject/Saved/Config/Windows/Engine.ini]
@@ -1544,4 +1555,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-14.25.15:156][723]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.04.27-14.25.15:157][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
 [2021.04.27-14.25.15:157][723]LogFileHelpers: Loading map 'SceneOne' took 0.284
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
