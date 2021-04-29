@@ -689,3 +689,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.29-08.27.58:113][235]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.656ms to complete.
 [2021.04.29-08.27.58:114][235]LogFileHelpers: Loading map 'AITestWorld' took 0.205
 [2021.04.29-08.27.58:166][235]PIE: Warning: Constraint in '/Engine/Transient.World_0:PersistentLevel.Door_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2021.04.29-09.46.27:182][515]LogEditorViewport: Clicking Background
+[2021.04.29-09.46.28:992][731]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.28:992][731]LogEditorTransaction: Undo Clicking Background
+[2021.04.29-09.46.29:221][735]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.29:222][735]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.29:439][739]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.29:439][739]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.29:634][752]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.29:634][752]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.29:836][771]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.29:837][771]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.30:051][791]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.30:052][791]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.30:552][845]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.30:552][845]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.30:790][867]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.30:790][867]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.31:120][901]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.31:121][901]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.31:453][935]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.31:453][935]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.31:761][966]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.31:761][966]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.31:992][988]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.31:992][988]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.32:345][ 24]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.32:345][ 24]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.32:704][ 61]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.32:704][ 61]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.33:105][103]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.33:105][103]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.33:474][140]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.33:474][140]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.33:873][182]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.33:874][182]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.34:255][222]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.34:255][222]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.34:590][256]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.34:590][256]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.34:916][289]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.34:916][289]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.35:271][326]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.35:271][326]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.35:741][376]Cmd: TRANSACTION UNDO
+[2021.04.29-09.46.35:741][376]LogEditorTransaction: Undo Move Actors
+[2021.04.29-09.46.35:750][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_65' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_65.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_66' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_66.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_67' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_67.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_68' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_68.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_69' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_69.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:751][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_70' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:752][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_70.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:752][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_71' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:752][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_71.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:752][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_72' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:752][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_72.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_73' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_73.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_74' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_74.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_75' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_75.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_76' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_76.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_77' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_77.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_78' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:753][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_78.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_79' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_79.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_80' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_80.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_81' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_81.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_82' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_82.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_83' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_83.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_84' invalid (1564 verts, 0 indices).
+[2021.04.29-09.46.35:754][376]LogPhysics: Warning: Attempt to build physics data for /Game/CallumTests/AITestWorld.AITestWorld:PersistentLevel.ModelComponent_84.BodySetup_0 when we are unable to.
+[2021.04.29-09.46.36:724][487]LogEditorViewport: Clicking Background
+[2021.04.29-09.46.38:760][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.04.29-09.46.39:065][703]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/AITestWorldEE6B0595476B5A008EE0D792A3D38664.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/AITestWorld.umap'
+[2021.04.29-09.46.39:229][703]LogSavePackage: Moving 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Saved/AITestWorld_BuiltData6B9F42ED4FECE21F699385BE09C594B3.tmp' to 'E:/Uni/year2/Sem2/Colab/Collab/Collaborative-practice/VRCollabProject/Content/CallumTests/AITestWorld_BuiltData.uasset'
+[2021.04.29-09.46.39:275][703]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.29-09.46.39:275][703]LogContentValidation: Display: Validating World /Game/CallumTests/AITestWorld.AITestWorld
+[2021.04.29-09.46.39:275][703]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CallumTests/AITestWorld_BuiltData.AITestWorld_BuiltData
