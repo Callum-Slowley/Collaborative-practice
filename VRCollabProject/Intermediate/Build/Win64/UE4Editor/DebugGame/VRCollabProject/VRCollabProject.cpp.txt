@@ -1,0 +1,2 @@
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\DebugGame\VRCollabProject\Definitions.VRCollabProject.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\VRCollabProject.h

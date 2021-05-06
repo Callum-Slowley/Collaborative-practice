@@ -3,20 +3,21 @@
 #include "Camera/CameraComponent.h"
 #include "VRStatics.h"
 #include "MotionControllerComponent.h"
+#include "Components/CapsuleComponent.h"
 #include "Components/SphereComponent.h"
 
 // Sets default values
 AVRPlayerPawn::AVRPlayerPawn()
 {
  	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = false;
-	PrimaryActorTick.bStartWithTickEnabled = false;
+	PrimaryActorTick.bCanEverTick = true;
+	PrimaryActorTick.bStartWithTickEnabled = true;
 
-	rootSceneComponent = CreateDefaultSubobject<USceneComponent>(TEXT("RootSceneComponent"));
-	SetRootComponent(rootSceneComponent);
+	capsuleComponent = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
+	SetRootComponent(capsuleComponent);
 
 	VROffset = CreateDefaultSubobject<USceneComponent>(TEXT("VROffset"));
-	VROffset->SetupAttachment(GetRootComponent());
+	VROffset->SetupAttachment(capsuleComponent);
 
 	cameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComponent"));
 	cameraComponent->SetupAttachment(VROffset);

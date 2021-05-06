@@ -1,0 +1,6 @@
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4\DebugGame\VRCollabProject\Definitions.VRCollabProject.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\PickupActor.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\PickupInterface.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4\Inc\VRCollabProject\PickupInterface.generated.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4\Inc\VRCollabProject\PickupActor.generated.h
+E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\VRStatics.h

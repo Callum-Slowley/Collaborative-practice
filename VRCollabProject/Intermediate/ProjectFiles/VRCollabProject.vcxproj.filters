@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\VRCollabProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{40E43712-926D-4E08-AD9C-A4092C1BD15B}</UniqueIdentifier>
+      <UniqueIdentifier>{B05BDAF3-2A15-445A-A61F-D48FCA886785}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\VRCollabProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B5ADA58C-54C8-474D-8B11-3C3A29242C94}</UniqueIdentifier>
+      <UniqueIdentifier>{CA0CAA4C-8DC1-49F8-B07E-ADAD9435C037}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\VRCollabProject">
-      <UniqueIdentifier>{49F4E005-CABF-4A4F-B137-D32E2FD02F17}</UniqueIdentifier>
+      <UniqueIdentifier>{5C0F9731-BF90-4150-B5BA-CBE729306206}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\VRCollabProject\PickupActor.cpp">
       <Filter>Source\VRCollabProject</Filter>

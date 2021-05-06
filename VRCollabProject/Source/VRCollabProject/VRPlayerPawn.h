@@ -10,6 +10,7 @@
 class UCameraComponent;
 class UMotionControllerComponent;
 class USphereComponent;
+class UCapsuleComponent;
 
 UCLASS()
 class VRCOLLABPROJECT_API AVRPlayerPawn : public APawn
@@ -71,10 +72,10 @@ protected:
 	UMotionControllerComponent* rightMotionController;
 
 	UPROPERTY(VisibleAnywhere)
-	USceneComponent* rootSceneComponent;
+	USceneComponent* VROffset;
 
 	UPROPERTY(VisibleAnywhere)
-	USceneComponent* VROffset;
+	UCapsuleComponent* capsuleComponent;
 
 #pragma endregion
 
