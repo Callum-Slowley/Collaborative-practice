@@ -1,7 +1,7 @@
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\VRCollabProjectGameModeBase.h
-E:\DevTools\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-E:\DevTools\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-E:\DevTools\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-E:\DevTools\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\VRCollabProjectGameModeBase.generated.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\VRCollabProjectGameModeBase.h
+D:\devtools\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\devtools\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\devtools\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\devtools\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\VRCollabProjectGameModeBase.generated.h

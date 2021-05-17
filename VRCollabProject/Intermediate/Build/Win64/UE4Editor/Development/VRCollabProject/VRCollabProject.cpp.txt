@@ -1,2 +1,2 @@
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\VRCollabProject.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\VRCollabProject.h

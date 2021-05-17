@@ -1,6 +1,6 @@
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\PickupActor.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\PickupInterface.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\PickupInterface.generated.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\PickupActor.generated.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\VRStatics.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\PickupActor.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\PickupInterface.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\PickupInterface.generated.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\PickupActor.generated.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\VRStatics.h

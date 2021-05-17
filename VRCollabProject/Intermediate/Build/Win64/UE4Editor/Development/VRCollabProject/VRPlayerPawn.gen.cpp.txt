@@ -1,7 +1,7 @@
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
-E:\DevTools\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\DevTools\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject/VRPlayerPawn.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Source\VRCollabProject\PickupInterface.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\PickupInterface.generated.h
-E:\Projects\Github\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Inc\VRCollabProject\VRPlayerPawn.generated.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Intermediate\Build\Win64\UE4Editor\Development\VRCollabProject\Definitions.VRCollabProject.h
+D:\devtools\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\devtools\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Documents\GitHub\Collaborative-practice\VRCollabProject\Source\VRCollabProject/VRPlayerPawn.h
+d:\documents\github\collaborative-practice\vrcollabproject\source\vrcollabproject\PickupInterface.h
+d:\documents\github\collaborative-practice\vrcollabproject\intermediate\build\win64\ue4editor\inc\vrcollabproject\PickupInterface.generated.h
+d:\documents\github\collaborative-practice\vrcollabproject\intermediate\build\win64\ue4editor\inc\vrcollabproject\VRPlayerPawn.generated.h
